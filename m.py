@@ -6,7 +6,7 @@ import os
 # Insert your Telegram bot token here
 bot = telebot.TeleBot('7619017682:AAG7NI4SCAlSS9s6D7j5kuQR33oj9tdc300')
 # DEVELOPER --> @RitikXyz099
-# Admin user IDs
+# Admin user IDs @RitikXyz099
 admin_id = ["6437994839"]
 
 # File to store allowed user IDs and their subscription expiry
